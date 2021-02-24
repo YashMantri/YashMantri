@@ -10,7 +10,7 @@ I have 3 years of professional work experience as a Software Engineer (in Data) 
 
 I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
 
-I am currently exploring Docker Kafka messaging components to gain in-depth knowledge in distributed events.
+I am currently exploring Docker containers and Kafka, an event streaming platform to understand more about PaaS and Distributed Systems.
 
 <p></br></p>
 <p align="center">
