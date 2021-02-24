@@ -12,7 +12,6 @@ I come with a solid programming expertise in JAVA, Python, C, Object Oriented De
 
 I am currently exploring Docker containers and Kafka, an event streaming platform to understand more about PaaS and Distributed Systems.
 
-<p></br></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yashnitinmantri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yashnitinmantri"/></a> 
   <a href="https://twitter.com/YashMantri" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
