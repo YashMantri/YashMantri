@@ -2,7 +2,9 @@
 
 I love coding and I am passionate about using technology to provide solutions that require creative thinking. I like to explore data and derive insights to enable data-driven decision-making.
 
-I have recently completed my Master of Science in Computer Science from SUNY Buffalo with a keen interest in Data Engineering, Database, Data Structures & Algorithms, and Cloud Technologies. I am currently working on a research project performing data integration on AWS and managing Data warehouses like Redshift and Snowflake.
+My continuous desire to work with data led me to secure the role of Data Engineer (AS) at Goldman Sachs.
+
+After completing Master of Science in Computer Science from SUNY Buffalo, I joined Egen Solutions where I worked on data pipelines to create Directed Acyclic Graphs (DAG) using Apache Airflow, and built staging tasks and production tasks using Python, AWS and PostgreSql. I also got exposure to resolved 10+ issues on existing data pipelines by using stack trace of AWS Batch, Cloud-watch and Jenkins for debugging.
 
 I have 3 years of professional work experience as a Software Engineer (in Data) at Purplle.com (an E-commerce startup) where I achieved the opportunity to work on all the stages of the E-commerce life-cycle right from product onboarding to analyzing feedbacks of customer experience.
 
